@@ -1,0 +1,11 @@
+construction_year;total_area_sqm;surface_land_sqm;nbr_bedrooms;nbr_frontages;cadastral_income;garden_sqm;terrace_sqm;fl_terrace;fl_double_glazing;fl_furnished;fl_open_fire;fl_garden;fl_swimming_pool;fl_floodzone;property_type;subproperty_type;region;province;locality;equipped_kitchen;state_building;epc;heating_type
+19610.0;5500.0;1607370.0;60;40.0;56370.0;0.0;950.0;1;1;0;0;0;1;1;HOUSE;VILLA;Wallonia;Walloon Brabant;Nivelles;MISSING;TO_BE_DONE_UP;E;FUELOIL
+19560.0;2500.0;1294030.0;20;40.0;15540.0;0.0;400.0;1;1;0;0;0;0;0;HOUSE;FARMHOUSE;Wallonia;Liège;Liège;INSTALLED;AS_NEW;D;FUELOIL
+18100.0;9670.0;1013490.0;60;40.0;28870.0;0.0;0.0;0;0;0;1;0;1;0;HOUSE;CASTLE;Flanders;East Flanders;Dendermonde;MISSING;GOOD;A++;FUELOIL
+19920.0;8600.0;664410.0;70;40.0;48170.0;0.0;0.0;0;1;0;0;0;1;0;HOUSE;VILLA;Flanders;Antwerp;Turnhout;MISSING;GOOD;B;GAS
+18860.0;5850.0;624900.0;60;40.0;34580.0;624900.0;1500.0;1;1;0;1;1;0;0;HOUSE;VILLA;Flanders;Antwerp;Turnhout;MISSING;MISSING;F;MISSING
+20110.0;7000.0;600860.0;50;40.0;53280.0;0.0;0.0;0;0;0;0;0;1;1;HOUSE;MANOR_HOUSE;Flanders;East Flanders;Oudenaarde;MISSING;GOOD;B;MISSING
+19000.0;6250.0;564830.0;80;40.0;17360.0;0.0;0.0;0;0;0;1;0;0;1;HOUSE;EXCEPTIONAL_PROPERTY;Wallonia;Namur;Philippeville;SEMI_EQUIPPED;TO_BE_DONE_UP;F;FUELOIL
+19000.0;2710.0;524510.0;20;40.0;4410.0;0.0;0.0;0;0;0;0;0;0;1;HOUSE;FARMHOUSE;Flanders;Limburg;Maaseik;MISSING;MISSING;F;MISSING
+19700.0;4000.0;500000.0;40;30.0;16000.0;1000.0;120.0;1;1;0;1;1;0;0;HOUSE;HOUSE;Flanders;Flemish Brabant;Leuven;MISSING;GOOD;C;MISSING
+18440.0;2850.0;441990.0;40;40.0;3780.0;0.0;0.0;0;1;0;1;0;0;1;HOUSE;COUNTRY_COTTAGE;Flanders;Antwerp;Mechelen;SEMI_EQUIPPED;TO_RENOVATE;F;FUELOIL
